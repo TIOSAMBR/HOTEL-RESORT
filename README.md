@@ -1,6 +1,8 @@
 # Sobre este repositório!
 
-#### Tarefa - HOTEL (RESORT) Site Online -> [HOTEL (RESORT)](https://tiosambr.github.io/HOTEL-RESORT/valores.html)
+#### Tarefa - HOTEL (RESORT) 
+
+Site Online -> [HOTEL (RESORT)](https://tiosambr.github.io/HOTEL-RESORT/valores.html)
 
 Este repositório foi criado para publicação de todos os códigos já produzidos durante minha graduação em Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Morrinhos!
 
